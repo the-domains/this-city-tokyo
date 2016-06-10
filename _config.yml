@@ -1,14 +1,14 @@
-layout_spectrum: 0.7962411746848375
-typography_spectrum: 0.3480826714076102
+layout_spectrum: 0.7728660358116031
+typography_spectrum: 0.7826164260040969
 color:
-  brandStrength: 0.8893769911956042
-  lightness: 0.5049945539794862
-  saturation: 0.2076022056862712
-  rhythmicContrast: 0.0916723357513547
+  brandStrength: 0.6354485603515059
+  lightness: 0.14462802396155894
+  saturation: 0.7239596277941018
+  rhythmicContrast: 0.9168306437786669
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: This City Tokyo
