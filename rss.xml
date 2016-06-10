@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[This City Tokyo]]></title>
         <description><![CDATA[This City Tokyo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/this-city-tokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 00:51:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 02:25:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/this-city-tokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This City Tokyo // Minowa]]></title>
-            <description><![CDATA[<article><h1>This City Tokyo // Minowa</h1><p>This City Tokyo is a street videography project of a city that I have fallen in love with. Tokyo is amazing its a rare blend of old and cutting edge and thats what i hope to convey during this series.</p></article>]]></description>
+            <description><![CDATA[<article><h1>This City Tokyo // Minowa</h1><p>This City Tokyo is a street videography project of a city that I have fallen in love with. Tokyo is amazing its a rare blend of old and cutting edge and thats what i hope to convey during this series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9d7acf2c46f8a944558d0a2f0c215bd8ce2e82d.jpg"></article>]]></description>
             <link>https://vimeo.com/74046018</link>
             <guid isPermaLink="false">243109c5-0110-4d42-bddd-88bc2e4ef079</guid>
-            <pubDate>Fri, 10 Jun 2016 00:50:55 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2016 02:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
