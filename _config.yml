@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4784946
 color:
-  saturation: 0.469534
+  saturation: 1
   brandStrength: 0.06272402
-  lightness: 0.3422939
+  lightness: 0.4820789
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  rhythmicContrast: 0.3799283
+  rhythmicContrast: 0.9229391
+typography_spectrum: 0.4784946
 layout_spectrum: 0.4121864
 name: This City Tokyo
