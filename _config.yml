@@ -1,14 +1,26 @@
-layout_spectrum: 0.7728660358116031
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7826164260040969
 color:
-  brandStrength: 0.6354485603515059
-  lightness: 0.14462802396155894
-  saturation: 0.7239596277941018
-  rhythmicContrast: 0.9168306437786669
+  saturation: 0.469534
+  brandStrength: 0.06272402
+  lightness: 0.3422939
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+  rhythmicContrast: 0.3799283
+layout_spectrum: 1
 name: This City Tokyo
